@@ -20,7 +20,7 @@
 
 ###
 
-<h4 align="left">👩‍💻  About Me <br>I’m a Computer Science Engineering student with a strong background in programming, specifically in Java, Python, HTML,CSS, JavaScript, AI. My goal is to become proficient in software industry and contribute to impactful projects. currently, I am expanding my knowledge on advanced technologies and actively working on projects that allow me to sharpen my skills.</h4>
+<h4 align="left">👩‍💻<h3>  About Me </h3>h3><br>I’m a Computer Science Engineering student with a strong background in programming, specifically in Java, Python, HTML,CSS, JavaScript, AI. My goal is to become proficient in software industry and contribute to impactful projects. currently, I am expanding my knowledge on advanced technologies and actively working on projects that allow me to sharpen my skills.</h4>
 
 ###
 
