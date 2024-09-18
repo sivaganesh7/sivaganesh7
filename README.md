@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/pepakayala-siva-ganesh-ba9597321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pepakayala siva ganesh" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/pepakayala-siva-ganesh-ba9597321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pepakayala Siva Ganesh" height="30" width="40" /></a>
 <a href="https://instagram.com/iam_sivaganesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_sivaganesh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pepakayala_siva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pepakayala_siva" height="30" width="40" /></a>
 <!--   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
