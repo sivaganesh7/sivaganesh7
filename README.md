@@ -2,11 +2,15 @@
 <h3 align="center">A passionate frontend developer and backend developer from India</h3>
 
 <!--<img aline="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">-->
-
+<style>
+  #h2{
+    color:red;
+  }
+</style>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivaganesh7&label=Profile%20views&color=0e75b6&style=flat" alt="sivaganesh7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sivaganesh7" alt="sivaganesh7" /></a> </p>
-<h2 style="color:yellow"># 💫 About Me:</h2>
+<h2 id="h2">⁜⁜About Me:</h2>
 I’m a Computer Science Engineering student with a strong background in programming, specifically in Java, Python, HTML,CSS, JavaScript, AI. My goal is to become proficient in software industry and contribute to impactful projects. currently, I am expanding my knowledge on advanced technologies and actively working on projects that allow me to sharpen my skills.
 
 
