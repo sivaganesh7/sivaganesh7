@@ -11,7 +11,17 @@ I’m a Computer Science Engineering student with a strong background in program
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam_sivaganesh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pepakayala-siva-ganesh-ba9597321) [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/pepakayala_siva)
+<a href="https://instagram.com/iam_sivaganesh" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+</a>
+
+<a href="https://linkedin.com/in/pepakayala-siva-ganesh-ba9597321" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://www.hackerrank.com/pepakayala_siva" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=HackerRank&logoColor=white" alt="HackerRank">
+</a>
 
 
 
