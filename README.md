@@ -22,6 +22,9 @@ I’m a Computer Science Engineering student with a strong background in program
 <a href="https://www.hackerrank.com/pepakayala_siva" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=HackerRank&logoColor=white" alt="HackerRank">
 </a>
+<a href="https://www.interviewbit.com/profile/pepakayala-siva" target="_blank">
+  <img src="https://img.shields.io/badge/InterviewBit-%23007bff.svg?logo=InterviewBit&logoColor=white" alt="InterviewBit">
+</a>
 
 
 
