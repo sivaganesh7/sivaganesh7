@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivaganesh7&label=Profile%20views&color=0e75b6&style=flat" alt="sivaganesh7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sivaganesh7" alt="sivaganesh7" /></a> </p>
-# 💫 About Me:
+<h2 style="color:yellow"># 💫 About Me:</h2>
 I’m a Computer Science Engineering student with a strong background in programming, specifically in Java, Python, HTML,CSS, JavaScript, AI. My goal is to become proficient in software industry and contribute to impactful projects. currently, I am expanding my knowledge on advanced technologies and actively working on projects that allow me to sharpen my skills.
 
 
