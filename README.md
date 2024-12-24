@@ -16,7 +16,7 @@ I’m a Computer Science Engineering student with a strong background in program
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
 </a>
 
-<a href="https://linkedin.com/in/pepakayala-siva-ganesh-ba9597321" target="_blank">
+<a href="www.linkedin.com/in/pepakayala-sivaganesh" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
