@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sivaganesh7&label=Profile%20views&color=0e75b6&style=flat" alt="sivaganesh7"/> </p>
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Poppins&color=FFD700&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Engineer;Web+Developer;App+Developer;Artificial+Intelligence;Machine+Learning;Data+Science" width="auto" height="45"/>
+ <img src="https://readme-typing-svg.demolab.com?font=Poppins&color=FFD700&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Engineer;Web+Developer;App+Developer;Artificial+Intelligence;Machine+Learning;Data+Science" width="auto" height="50"/>
 </p>
 <h2 id="h2">⁜⁜About Me:</h2>
 <p>I’m a Computer Science Engineering student with a strong background in programming, specifically in Java, Python, HTML,CSS, JavaScript, AI. My goal is to become proficient in software industry and contribute to impactful projects. currently, I am expanding my knowledge on advanced technologies and actively working on projects that allow me to sharpen my skills.</p>
