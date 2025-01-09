@@ -1,8 +1,8 @@
 <h1 align="center">Hi There👋, I'm Siva Ganesh Pepakayala</h1>
 <h3 align="center">A passionate frontend developer and backend developer from India</h3>
 
-<!--<img aline="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">-->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sivaganesh7&label=Profile%20views&color=0e75b6&style=flat" alt="sivaganesh7"/> </p>
+<!--<img aline="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sivaganesh7&label=Profile%20views&color=0e75b6&style=flat" alt="sivaganesh7"/> </p>-->
 
 <p align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Poppins&color=FFD700&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Engineer;Web+Developer;App+Developer;Artificial+Intelligence;Machine+Learning;Data+Science" width="auto" height="50"/>
