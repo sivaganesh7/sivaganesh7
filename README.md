@@ -39,7 +39,7 @@ fun_fact: I debug with chai ☕ and code to lo-fi 🎧 beats
 
 ## 🧠 Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,python,java,c,cpp,git,github,vscode,vercel,linux,figma&perline=9"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,python,java,c,cpp,git,github,vercel,figma&perline=9"/>
 </p>
 
 ---
