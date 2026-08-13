@@ -1,84 +1,90 @@
-<!-- ⚡ AI-Styled Modern GitHub Profile README | Siva Ganesh Pepakayala -->
-
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-  <span style="color:#facc15; font-size: 2.8rem; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-shadow: 1px 1px 2px #000;">Hi, I'm Siva Ganesh Pepakayala</span>
-</h1>
-<h3 align="center" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#7c3aed; font-weight:bold;">💻 Full Stack Dev | 🧠 AI Explorer | 🎯 Tech Visionary from India</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=AI+Engineer+in+progress...;Crafting+Next-Gen+Web+Solutions;Turning+Code+Into+Experiences"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sivaganesh7&label=VISITORS&color=ff69b4&style=for-the-badge"/>
-</p>
-
----
-
-## 👨‍🚀 Who Am I?
-```yaml
-name: Pepakayala Siva Ganesh
-role: Full Stack Developer | AI Enthusiast | Problem Solver
-focus: Building smart web apps & LLM-based tools
-skills: JavaScript, Python, React, Node, MongoDB, AI
-fun_fact: I debug with chai ☕ and code to lo-fi 🎧 beats
-```
-
----
-
-## 🌎 Let’s Connect & Collaborate
-<p align="center">
-  <a href="https://linkedin.com/in/pepakayala-sivaganesh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
-  <a href="https://instagram.com/iam_sivaganesh" target="_blank"><img src="https://img.shields.io/badge/Instagram-E1306C?logo=instagram&style=for-the-badge"/></a>
-  <a href="https://hackerrank.com/pepakayala_siva" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&style=for-the-badge"/></a>
-  <a href="mailto:pepakayalasiva7075@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge"/></a>
-</p>
-
----
-
-## 🧠 Tech Arsenal
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,python,java,c,cpp,git,github,vercel,figma&perline=9"/>
-</p>
-
----
-
-## 📊 GitHub Insights
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sivaganesh7&show_icons=true&theme=radical&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaganesh7&layout=compact&theme=radical&hide=css,jupyter%20notebook" height="180"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=220&section=header&text=Siva%20Ganesh%20Pepakayala&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Explorer&descAlignY=58&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=600&lines=Building+with+JavaScript+%26+Python;Exploring+LLMs+and+AI+tooling;Turning+ideas+into+shipped+products" />
+
 </div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sivaganesh7&theme=radical&utcOffset=5.5"/>
-</p>
+<br/>
 
----
+<table align="center">
+<tr>
+<td width="55%" valign="top">
 
-## 🏆 My Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sivaganesh7&theme=gruvbox&no-frame=true&row=2&column=3"/>
-</p>
+### 🧭 About Me
 
----
+I'm a full stack developer based in India, working across the JS/Python ecosystem and increasingly focused on AI-powered tools. I like building things that are fast, clean, and actually useful — and I debug best with a cup of chai and lo-fi in the background.
 
-## 🔮 Inspiration of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
+- 🔭 Currently building smart web apps & LLM-based tools
+- 🌱 Deepening my AI/ML fundamentals
+- 🤝 Open to collaborating on full stack or AI-adjacent projects
+- ⚡ Fun fact: I ship faster after 10pm
 
----
+</td>
+<td width="45%" valign="top">
 
-## 🚀 Contributions Highlight
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sivaganesh7&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
-</p>
+### 📇 Quick Facts
 
----
+| | |
+|---|---|
+| 🎓 Role | Full Stack Dev · AI Enthusiast |
+| 🧰 Stack | JS · Python · React · Node |
+| 📍 Based in | India |
+| 📫 Reach me | pepakayalasiva7075@gmail.com |
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer&text=Thanks+for+visiting!&fontColor=ffffff&fontSize=20"/>
-  <br/>
-  <strong>⚡ Built with passion by <span style="color:#facc15;">Siva Ganesh Pepakayala</span> 💜</strong>
-</p>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,py,java,c,cpp,tailwind,bootstrap,git,github,vercel,figma&theme=dark&perline=9"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📈 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=sivaganesh7&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0d1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaganesh7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=css,jupyter%20notebook" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=sivaganesh7&theme=tokyonight&hide_border=true&background=0D1117" height="165"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=sivaganesh7&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🌐 Connect With Me
+
+<a href="https://linkedin.com/in/pepakayala-sivaganesh"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/iam_sivaganesh"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://hackerrank.com/pepakayala_siva"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/></a>
+<a href="mailto:pepakayalasiva7075@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sivaganesh7&label=Profile%20Views&color=0ea5e9&style=flat-square"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=100&section=footer" width="100%"/>
