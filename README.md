@@ -1,221 +1,54 @@
-# 👋 Hi, I'm Siva Ganesh Pepakayala
-
-### 💻 Computer Science Undergraduate | Full-Stack Developer | AI Enthusiast
-
-I build **full-stack applications, AI-powered solutions, and scalable backend systems** that solve practical problems.
-
-I'm particularly interested in **Software Engineering, Backend Development, Full-Stack Development, and AI-powered applications**.
-
-* 🎓 Computer Science & Engineering — 2027
-* 💻 Full-Stack Development & Backend Engineering
-* 🧠 AI-powered applications & intelligent systems
-* ☕ Java, Python, JavaScript & SQL
-* 🚀 Interested in building secure, scalable and real-world software
-
----
-
-## 🚀 What I Do
-
-```text
-→ Build full-stack web applications
-→ Design RESTful APIs and backend systems
-→ Work with SQL and NoSQL databases
-→ Build AI-powered applications
-→ Solve Data Structures & Algorithms problems
-→ Design secure authentication and authorization systems
-→ Learn and apply modern software engineering practices
-```
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp" />
-</p>
-
-### 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-</p>
-
-### 🤖 AI / Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-`NumPy` • `Pandas` • `Scikit-learn` • `LLM APIs` • `AI Applications`
-
-### ☁️ Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,figma" />
-</p>
-
----
-
-# ⭐ Featured Projects
-
-## 🛡️ RecruitIQ-Shield
-
-**AI-powered recruiter and internship fraud detection platform**
-
-A full-stack application designed to identify potentially fraudulent recruitment and internship opportunities and provide users with a trust-oriented assessment.
-
-**Focus:**
-
-* Fraud detection
-* Trust scoring
-* AI-powered analysis
-* Full-stack architecture
-* Secure user workflows
-
-**Technologies:** `React` `Node.js` `Express` `PostgreSQL` `AI`
-
----
-
-## 🧠 GenSkillEval AI
-
-**AI-powered skill evaluation platform**
-
-A secure full-stack platform designed around AI-assisted skill evaluation and assessment workflows.
-
-**Highlights:**
-
-* Secure authentication
-* RESTful APIs
-* PostgreSQL database
-* Prisma ORM
-* AI-powered evaluation workflows
-* Scalable backend architecture
-
-**Technologies:** `React` `Node.js` `Express` `PostgreSQL` `Prisma` `JWT`
-
----
-
-## 🌱 OptiCrop
-
-**Data-driven crop recommendation system**
-
-An ML-powered application that analyzes environmental and soil-related factors to recommend suitable crops.
-
-**Highlights:**
-
-* Data preprocessing
-* Exploratory data analysis
-* Machine learning model development
-* Prediction pipeline
-* Web application integration
-
-**Technologies:** `Python` `Pandas` `NumPy` `Scikit-learn`
-
----
-
-## 🏥 Meditrack Lite
-
-**MERN-stack hospital management system**
-
-A full-stack healthcare management application designed to manage healthcare workflows and improve the handling of patient-related information.
-
-**Highlights:**
-
-* REST API development
-* JWT authentication
-* User management
-* MongoDB schema design
-* CRUD operations
-* Backend optimization
-
-**Technologies:** `MongoDB` `Express.js` `React` `Node.js` `JWT`
-
----
-
-# 💼 Experience
-
-### MERN Stack Intern — LearnSquare Technologies
-
-**May 2025 – June 2025**
-
-* Developed **Meditrack Lite**, a MERN-stack hospital management system.
-* Built and optimized backend APIs using **Node.js and Express.js**.
-* Designed and normalized **MongoDB schemas**.
-* Implemented authentication and secure user-management workflows.
-* Improved API performance and scalability through backend optimization.
-
----
-
-# 🏆 Achievements
-
-🏅 **1st Prize — Pivot Makeathon**
-
-🏅 **3rd Prize — AI Product Development Pitching Competition**
-
-🏅 **3rd Place — Inno-VIT Hackathon**
-
-🚀 Advanced to the **Finals of the Inno-VIT Hackathon**
-
----
-
-# 📜 Certifications
-
-* 🟢 NPTEL — Python Programming — **Elite Silver**
-* 🟢 NPTEL — Java Programming — **Elite**
-* 🟢 HackerRank — Java
-* 🟢 HackerRank — SQL
-* 🟢 Machine Learning Certification — Skill India
-* 🟢 MongoDB Developer's Toolkit
-* 🟢 AWS Virtual Internship — AICTE Eduskills
-
----
-
-# 🧩 Problem Solving
-
-I regularly practice **Data Structures & Algorithms** and focus on understanding patterns rather than memorizing solutions.
-
-### Current focus
-
-```text
-Arrays
-Strings
-Hashing
-Two Pointers
-Sliding Window
-Binary Search
-Stack & Queue
-Linked List
-Trees & BST
-Heap
-Graphs
-Recursion
-Backtracking
-Greedy
-Dynamic Programming
-```
-
----
-
-# 📊 GitHub Statistics
+<!-- ⚡ AI-Styled Modern GitHub Profile README | Siva Ganesh Pepakayala -->
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+  <span style="color:#facc15; font-size: 2.8rem; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-shadow: 1px 1px 2px #000;">Hi, I'm Siva Ganesh Pepakayala</span>
+</h1>
+<h3 align="center" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#7c3aed; font-weight:bold;">💻 Full Stack Dev | 🧠 AI Explorer | 🎯 Tech Visionary from India</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=AI+Engineer+in+progress...;Crafting+Next-Gen+Web+Solutions;Turning+Code+Into+Experiences"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sivaganesh7&label=VISITORS&color=ff69b4&style=for-the-badge"/>
+</p>
+
+---
+
+## 👨‍🚀 Who Am I?
+```yaml
+name: Pepakayala Siva Ganesh
+role: Full Stack Developer | AI Enthusiast | Problem Solver
+focus: Building smart web apps & LLM-based tools
+skills: JavaScript, Python, React, Node, MongoDB, AI
+fun_fact: I debug with chai ☕ and code to lo-fi 🎧 beats
+```
+
+---
+
+## 🌎 Let’s Connect & Collaborate
+<p align="center">
+  <a href="https://linkedin.com/in/pepakayala-sivaganesh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
+  <a href="https://instagram.com/iam_sivaganesh" target="_blank"><img src="https://img.shields.io/badge/Instagram-E1306C?logo=instagram&style=for-the-badge"/></a>
+  <a href="https://hackerrank.com/pepakayala_siva" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&style=for-the-badge"/></a>
+  <a href="mailto:pepakayalasiva7075@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge"/></a>
+</p>
+
+---
+
+## 🧠 Tech Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,python,java,c,cpp,git,github,vercel,figma&perline=9"/>
+</p>
+
+---
+
+## 📊 GitHub Insights
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sivaganesh7&show_icons=true&theme=radical&rank_icon=github" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaganesh7&layout=compact&theme=radical&hide=css,jupyter%20notebook" height="180"/>
-</p>
+</div>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sivaganesh7&theme=radical&utcOffset=5.5"/>
@@ -223,62 +56,29 @@ Dynamic Programming
 
 ---
 
-# 📈 What I'm Currently Learning
-
-```text
-Java & Advanced Java
-Data Structures & Algorithms
-Backend Engineering
-System Design Fundamentals
-AI-powered Applications
-Cloud & Deployment
-Database Design
-Software Engineering Best Practices
-```
-
----
-
-# 🎯 Career Interests
-
-I'm currently interested in opportunities related to:
-
-* Software Engineering
-* Backend Development
-* Full-Stack Development
-* AI / ML Applications
-* Software Development Internships
-* Graduate / Fresher Software Engineering Roles
-
----
-
-# 🤝 Let's Connect
-
+## 🏆 My Achievements
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sivaganesh7&theme=gruvbox&no-frame=true&row=2&column=3"/>
+</p>
 
-<a href="https://linkedin.com/in/pepakayala-sivaganesh">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+---
 
-<a href="https://github.com/sivaganesh7">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-</a>
+## 🔮 Inspiration of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
 
-<a href="https://hackerrank.com/pepakayala_siva">
-<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank"/>
-</a>
+---
 
-<a href="mailto:pepakayalasiva7075@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
+## 🚀 Contributions Highlight
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=sivaganesh7&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
 </p>
 
 ---
 
 <p align="center">
-
-### 💡 Build. Learn. Solve. Improve.
-
-**Thanks for visiting my profile! 🚀**
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer&text=Thanks+for+visiting!&fontColor=ffffff&fontSize=20"/>
+  <br/>
+  <strong>⚡ Built with passion by <span style="color:#facc15;">Siva Ganesh Pepakayala</span> 💜</strong>
 </p>
