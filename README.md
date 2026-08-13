@@ -1,90 +1,284 @@
-<div align="center">
+# 👋 Hi, I'm Siva Ganesh Pepakayala
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=220&section=header&text=Siva%20Ganesh%20Pepakayala&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Explorer&descAlignY=58&descSize=18" width="100%"/>
+### 💻 Computer Science Undergraduate | Full-Stack Developer | AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=600&lines=Building+with+JavaScript+%26+Python;Exploring+LLMs+and+AI+tooling;Turning+ideas+into+shipped+products" />
+I build **full-stack applications, AI-powered solutions, and scalable backend systems** that solve practical problems.
 
-</div>
+I'm particularly interested in **Software Engineering, Backend Development, Full-Stack Development, and AI-powered applications**.
 
-<br/>
+* 🎓 Computer Science & Engineering — 2027
+* 💻 Full-Stack Development & Backend Engineering
+* 🧠 AI-powered applications & intelligent systems
+* ☕ Java, Python, JavaScript & SQL
+* 🚀 Interested in building secure, scalable and real-world software
 
-<table align="center">
-<tr>
-<td width="55%" valign="top">
+---
 
-### 🧭 About Me
+## 🚀 What I Do
 
-I'm a full stack developer based in India, working across the JS/Python ecosystem and increasingly focused on AI-powered tools. I like building things that are fast, clean, and actually useful — and I debug best with a cup of chai and lo-fi in the background.
+```text
+→ Build full-stack web applications
+→ Design RESTful APIs and backend systems
+→ Work with SQL and NoSQL databases
+→ Build AI-powered applications
+→ Solve Data Structures & Algorithms problems
+→ Design secure authentication and authorization systems
+→ Learn and apply modern software engineering practices
+```
 
-- 🔭 Currently building smart web apps & LLM-based tools
-- 🌱 Deepening my AI/ML fundamentals
-- 🤝 Open to collaborating on full stack or AI-adjacent projects
-- ⚡ Fun fact: I ship faster after 10pm
+---
 
-</td>
-<td width="45%" valign="top">
+## 🛠️ Tech Stack
 
-### 📇 Quick Facts
+### 💻 Programming
 
-| | |
-|---|---|
-| 🎓 Role | Full Stack Dev · AI Enthusiast |
-| 🧰 Stack | JS · Python · React · Node |
-| 📍 Based in | India |
-| 📫 Reach me | pepakayalasiva7075@gmail.com |
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp" />
+</p>
 
-</td>
-</tr>
-</table>
+### 🌐 Frontend
 
-<br/>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs" />
+</p>
 
-<div align="center">
+### ⚙️ Backend
 
-### 🛠️ Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,py,java,c,cpp,tailwind,bootstrap,git,github,vercel,figma&theme=dark&perline=9"/>
+### 🗄️ Databases
 
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
 
-<br/>
+### 🤖 AI / Data
 
-<div align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-### 📈 GitHub Stats
+`NumPy` • `Pandas` • `Scikit-learn` • `LLM APIs` • `AI Applications`
 
-<img src="https://github-readme-stats.vercel.app/api?username=sivaganesh7&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0d1117" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaganesh7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=css,jupyter%20notebook" height="165"/>
+### ☁️ Tools & Platforms
 
-<img src="https://streak-stats.demolab.com?user=sivaganesh7&theme=tokyonight&hide_border=true&background=0D1117" height="165"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,figma" />
+</p>
 
-</div>
+---
 
-<br/>
+# ⭐ Featured Projects
 
-<div align="center">
+## 🛡️ RecruitIQ-Shield
 
-### 🏆 Trophies
+**AI-powered recruiter and internship fraud detection platform**
 
-<img src="https://github-profile-trophy.vercel.app/?username=sivaganesh7&theme=tokyonight&no-frame=true&row=1&column=6"/>
+A full-stack application designed to identify potentially fraudulent recruitment and internship opportunities and provide users with a trust-oriented assessment.
 
-</div>
+**Focus:**
 
-<br/>
+* Fraud detection
+* Trust scoring
+* AI-powered analysis
+* Full-stack architecture
+* Secure user workflows
 
-<div align="center">
+**Technologies:** `React` `Node.js` `Express` `PostgreSQL` `AI`
 
-### 🌐 Connect With Me
+---
 
-<a href="https://linkedin.com/in/pepakayala-sivaganesh"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/iam_sivaganesh"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="https://hackerrank.com/pepakayala_siva"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/></a>
-<a href="mailto:pepakayalasiva7075@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+## 🧠 GenSkillEval AI
 
-<br/><br/>
+**AI-powered skill evaluation platform**
 
-<img src="https://komarev.com/ghpvc/?username=sivaganesh7&label=Profile%20Views&color=0ea5e9&style=flat-square"/>
+A secure full-stack platform designed around AI-assisted skill evaluation and assessment workflows.
 
-</div>
+**Highlights:**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=100&section=footer" width="100%"/>
+* Secure authentication
+* RESTful APIs
+* PostgreSQL database
+* Prisma ORM
+* AI-powered evaluation workflows
+* Scalable backend architecture
+
+**Technologies:** `React` `Node.js` `Express` `PostgreSQL` `Prisma` `JWT`
+
+---
+
+## 🌱 OptiCrop
+
+**Data-driven crop recommendation system**
+
+An ML-powered application that analyzes environmental and soil-related factors to recommend suitable crops.
+
+**Highlights:**
+
+* Data preprocessing
+* Exploratory data analysis
+* Machine learning model development
+* Prediction pipeline
+* Web application integration
+
+**Technologies:** `Python` `Pandas` `NumPy` `Scikit-learn`
+
+---
+
+## 🏥 Meditrack Lite
+
+**MERN-stack hospital management system**
+
+A full-stack healthcare management application designed to manage healthcare workflows and improve the handling of patient-related information.
+
+**Highlights:**
+
+* REST API development
+* JWT authentication
+* User management
+* MongoDB schema design
+* CRUD operations
+* Backend optimization
+
+**Technologies:** `MongoDB` `Express.js` `React` `Node.js` `JWT`
+
+---
+
+# 💼 Experience
+
+### MERN Stack Intern — LearnSquare Technologies
+
+**May 2025 – June 2025**
+
+* Developed **Meditrack Lite**, a MERN-stack hospital management system.
+* Built and optimized backend APIs using **Node.js and Express.js**.
+* Designed and normalized **MongoDB schemas**.
+* Implemented authentication and secure user-management workflows.
+* Improved API performance and scalability through backend optimization.
+
+---
+
+# 🏆 Achievements
+
+🏅 **1st Prize — Pivot Makeathon**
+
+🏅 **3rd Prize — AI Product Development Pitching Competition**
+
+🏅 **3rd Place — Inno-VIT Hackathon**
+
+🚀 Advanced to the **Finals of the Inno-VIT Hackathon**
+
+---
+
+# 📜 Certifications
+
+* 🟢 NPTEL — Python Programming — **Elite Silver**
+* 🟢 NPTEL — Java Programming — **Elite**
+* 🟢 HackerRank — Java
+* 🟢 HackerRank — SQL
+* 🟢 Machine Learning Certification — Skill India
+* 🟢 MongoDB Developer's Toolkit
+* 🟢 AWS Virtual Internship — AICTE Eduskills
+
+---
+
+# 🧩 Problem Solving
+
+I regularly practice **Data Structures & Algorithms** and focus on understanding patterns rather than memorizing solutions.
+
+### Current focus
+
+```text
+Arrays
+Strings
+Hashing
+Two Pointers
+Sliding Window
+Binary Search
+Stack & Queue
+Linked List
+Trees & BST
+Heap
+Graphs
+Recursion
+Backtracking
+Greedy
+Dynamic Programming
+```
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sivaganesh7&show_icons=true&theme=radical&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaganesh7&layout=compact&theme=radical&hide=css,jupyter%20notebook" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sivaganesh7&theme=radical&utcOffset=5.5"/>
+</p>
+
+---
+
+# 📈 What I'm Currently Learning
+
+```text
+Java & Advanced Java
+Data Structures & Algorithms
+Backend Engineering
+System Design Fundamentals
+AI-powered Applications
+Cloud & Deployment
+Database Design
+Software Engineering Best Practices
+```
+
+---
+
+# 🎯 Career Interests
+
+I'm currently interested in opportunities related to:
+
+* Software Engineering
+* Backend Development
+* Full-Stack Development
+* AI / ML Applications
+* Software Development Internships
+* Graduate / Fresher Software Engineering Roles
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/pepakayala-sivaganesh">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/sivaganesh7">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://hackerrank.com/pepakayala_siva">
+<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="mailto:pepakayalasiva7075@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💡 Build. Learn. Solve. Improve.
+
+**Thanks for visiting my profile! 🚀**
+
+</p>
