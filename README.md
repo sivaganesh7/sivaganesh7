@@ -21,7 +21,7 @@
 <br/><br/>
 
 <!-- Social Badges -->
-<a href="https://linkedin.com/in/pepakayala-sivaganesh" target="_blank">
+<a href="https://linkedin.com/in/p-sivaganesh" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>&nbsp;
 <a href="mailto:pepakayalasiva7075@gmail.com">
@@ -30,7 +30,7 @@
 <a href="https://hackerrank.com/pepakayala_siva" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
 </a>&nbsp;
-<a href="https://instagram.com/iam_sivaganesh" target="_blank">
+<a href="https://instagram.com/sivaganesh_pepakayala" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>&nbsp;
 <a href="https://github.com/sivaganesh7?tab=repositories" target="_blank">
