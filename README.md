@@ -6,7 +6,7 @@
 <!--                     ANIMATED HEADER                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,50:7928CA,100:FF0080&height=230&section=header&text=SIVA%20GANESH%20PEPAKAYALA&fontSize=40&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20RAG%20Engineer%20%7C%20DevSecOps%20Enthusiast&descSize=17&descAlignY=60&descAlign=50" width="100%" alt="Header"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,50:7928CA,100:FF0080&height=230&section=header&text=SIVA%20GANESH%20PEPAKAYALA&fontSize=40&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20RAG%20Engineer%20%7C%20DevSecOps%20Enthusiast&descSize=17&descAlignY=60&descAlign=50" width="100%" alt="Header"/> -->
 
 <a href="https://github.com/sivaganesh7">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="55" alt="Hi there!"/>
@@ -357,20 +357,12 @@ const sivaGanesh: Developer = {
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="8">
-<tr>
-<td align="center">
-  <a href="https://github.com/sivaganesh7">
-    <img src="https://github-readme-stats.vercel.app/api?username=sivaganesh7&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=ffffff&icon_color=7928CA" height="190" alt="GitHub Stats"/>
-  </a>
-</td>
-<td align="center">
-  <a href="https://github.com/sivaganesh7">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaganesh7&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=ffffff&langs_count=8" height="190" alt="Top Languages"/>
-  </a>
-</td>
-</tr>
-</table>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sivaganesh7&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sivaganesh7&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
 
 <a href="https://github.com/sivaganesh7">
   <img src="https://streak-stats.demolab.com?user=sivaganesh7&theme=radical&hide_border=true&background=0D1117&ring=00F5D4&fire=FF0080&currStreakNum=00F5D4&sideNums=ffffff&sideLabels=00F5D4&dates=7928CA&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="80%"/>
@@ -390,13 +382,13 @@ const sivaGanesh: Developer = {
 <!--                    🏆 TROPHIES                                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🏆 GitHub Achievement Trophies</h2>
+<!-- <h2 align="center">🏆 GitHub Achievement Trophies</h2>
 
 <div align="center">
   <a href="https://github.com/sivaganesh7">
     <img src="https://github-profile-trophy.vercel.app/?username=sivaganesh7&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" width="95%"/>
   </a>
-</div>
+</div> -->
 
 ---
 
