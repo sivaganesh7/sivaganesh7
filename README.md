@@ -12,8 +12,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="55" alt="Hi there!"/>
 </a>
 
-<br/>
-
+ <h1>Hi, I'm Siva Ganesh Pepakayala 👋</h1>
+ 
 <a href="https://github.com/sivaganesh7">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=750&height=45&lines=%F0%9F%91%8B+Hello+World!+I%27m+Siva+Ganesh;%F0%9F%9A%80+Architecting+Scalable+Full-Stack+Platforms;%F0%9F%A7%A0+Engineering+RAG+Pipelines+%26+LLM+Agents;%F0%9F%9B%A1%EF%B8%8F+Automating+DevSecOps+%26+Cloud+Workflows;%E2%9C%A8+Turning+Complex+Problems+Into+Shipped+Software" alt="Typing SVG"/>
 </a>
@@ -408,7 +408,7 @@ const sivaGanesh: Developer = {
 <a href="mailto:pepakayalasiva7075@gmail.com">
   <img src="https://img.shields.io/badge/Let's%20Talk%20Code-Say%20Hi%20✉️-00F5D4?style=for-the-badge&labelColor=0d1117" alt="Email"/>
 </a>&nbsp;
-<a href="https://linkedin.com/in/pepakayala-sivaganesh" target="_blank">
+<a href="https://linkedin.com/in/p-sivaganesh" target="_blank">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
 </a>
 
@@ -416,6 +416,6 @@ const sivaGanesh: Developer = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:00F5D4&height=120&section=footer" width="100%" alt="Footer Wave"/>
 
-<b>⚡ Designed with Cyberpunk Aesthetics &amp; Passion by <a href="https://github.com/sivaganesh7">Siva Ganesh Pepakayala</a> 🚀</b>
+<b>⚡ Designed with Cyberpunk Aesthetics &amp; Passion by <a href="https://github.com/sivaganesh7">Siva Ganesh Pepakayala</a></b>
 
 </div>
